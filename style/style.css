@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.texto{
+    max-height: 550px;
+    margin: 0 auto;
+    text-align: center;
+}
